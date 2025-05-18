@@ -1,7 +1,7 @@
 body{
-    background-color: beige;
+    background-color: red;
     font-family: "Staatliches";
-    color: black;
+    color: white;
 }
 .imagev{
     height: 100px;
@@ -9,4 +9,7 @@ body{
 }
 .btswalabutton{
     background-color:purple !important;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
 }
