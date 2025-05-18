@@ -1,9 +1,12 @@
 body{
-    background-color: black;
+    background-color: white;
     font-family: "Staatliches";
-    color: white;
+    color: black;
 }
 .imagev{
     height: 100px;
     width: 100px;
+}
+.class{
+    background-colour:purple;
 }
