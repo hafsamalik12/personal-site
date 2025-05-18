@@ -1,5 +1,5 @@
 body{
-    background-color: white;
+    background-color: beige;
     font-family: "Staatliches";
     color: black;
 }
@@ -8,5 +8,5 @@ body{
     width: 100px;
 }
 .btswalabutton{
-    background-color:blue !important;
+    background-color:purple !important;
 }
